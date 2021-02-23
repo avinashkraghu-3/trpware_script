@@ -1,1 +1,2 @@
 
+java -noverify -Xbootclasspath/p:/opt/dev_sda3/Burp_Suite_professional/Burp_Suite_Professional/Loader.jar -jar /opt/dev_sda3/Burp_Suite_professional/Burp_Suite_Professional/burpsuite_pro_v2.1.07.jar
